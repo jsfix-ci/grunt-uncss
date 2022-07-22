@@ -33,7 +33,7 @@
     "test": "npm run xo && grunt test && npm run mocha"
   },
   "dependencies": {
-    "chalk": "^4.1.1",
+    "chalk": "^5.0.1",
     "maxmin": "^3.0.0",
     "uncss": "^0.17.3"
   },
